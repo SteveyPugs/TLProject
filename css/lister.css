@@ -64,6 +64,10 @@ table{
     font-size: 11px;
 }
 
+.listAdder ul{
+    padding: 5px;
+}
+
 .listAdder li{
     padding: 5px;
 }
